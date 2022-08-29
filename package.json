@@ -1,0 +1,17 @@
+{
+  "name": "stream-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "pg": "^8.8.0",
+    "puppeteer": "^16.2.0"
+  }
+}
